@@ -25,7 +25,7 @@ We learn 10 sprints during 4 month program.
 - clean missing values
 - export CSV file
 
-#### created reports on looker studio
+#### [created reports on looker studio](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/Mobile_Vendor_Market_Share_Thailand_2018_-_2022.pdf)
 - created scorecard
 - created bar chart
 - created time series chart
