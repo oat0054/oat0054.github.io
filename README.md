@@ -16,9 +16,9 @@ We learn 10 sprints during 4 month program.
 - Dashboard
 
 
-# [Project 1: Mobile Vendor Market Share Thailand: Project Overview](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
+# Project 1: Mobile Vendor Market Share Thailand: Project Overview
 
-#### prepared data in r
+#### [prepared data in r](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
 - combine sheets
 - change column name to lowercase
 - change raw format to long format
