@@ -18,14 +18,14 @@ We learn 10 sprints during 4 month program.
 
 # Project 1: Mobile Vendor Market Share Thailand: Project Overview
 
-prepared data in r 
+#### prepared data in r
 - combine sheets
 - change column name to lowercase
 - change raw format to long format
 - clean missing values
 - export CSV file
 
-created reports on looker studio
+#### created reports on looker studio
 - created scorecard
 - created bar chart
 - created time series chart
