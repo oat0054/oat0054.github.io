@@ -32,5 +32,6 @@ We learn 10 sprints during 4 month program.
 
 ![](/images/phone_time_series.png)
 
-# Project 2: 
+# Project 2: query chinook database
+#### [using SQL to do some data exploration](https://github.com/oat0054/bootcamp_projects/blob/main/chinook.db.sql)
 
