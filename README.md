@@ -32,3 +32,5 @@ We learn 10 sprints during 4 month program.
 
 ![](/images/phone_time_series.png)
 
+# Project 2: 
+
