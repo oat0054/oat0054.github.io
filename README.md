@@ -30,4 +30,5 @@ We learn 10 sprints during 4 month program.
 - created bar chart
 - created time series chart
 
+![](/images/phone_time_series.png)
 
