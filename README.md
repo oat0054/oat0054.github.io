@@ -39,3 +39,4 @@ We learn 10 sprints during 4 month program.
 - aggregate
 - create view
 
+![](/images/chinook_er.jpg)
