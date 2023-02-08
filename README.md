@@ -49,6 +49,7 @@ We learn 10 sprints during 4 month program.
 - Relationship between a number of worker and growth of company
 - Top 5 highest revenue cities
 
+![](/images/growth_ca_ny.png)
 
 
 
