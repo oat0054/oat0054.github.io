@@ -47,7 +47,7 @@ We learn 10 sprints during 4 month program.
 - State Revenue Maps
 - Top 5  fastest growing company (CA, NY)
 - Relationship between a number of worker and growth of company
-- Top 5 highest revenue companies
+- Top 5 highest revenue cities
 
 
 
