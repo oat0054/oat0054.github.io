@@ -61,6 +61,6 @@ We learn 10 sprints during 4 month program.
 - ifelse
 - summary pizza order
 
-
+![](/images/pizza_alan-hardmanunsplash.jpg)
 
 
