@@ -40,3 +40,16 @@ We learn 10 sprints during 4 month program.
 - create view
 
 ![](/images/chinook_er.jpg)
+
+# Project 3: The Inc. 5000 lists the 5,000 fastest-growing private companies in the U.S. based on their revenue growth rate.
+#### [created dashboard by tableau public](https://github.com/oat0054/bootcamp_projects/blob/main/5000_inc_2014.pdf)
+- Top 10 fastest growing industry
+- State Revenue Maps
+- Top 5  fastest growing company (CA, NY)
+- Relationship between a number of worker and growth of company
+- Top 5 highest revenue companies
+
+
+
+
+
