@@ -32,6 +32,7 @@ We learn 10 sprints during 4 month program.
 
 ![](/images/phone_time_series.png)
 
+
 # Project 2: query chinook database
 #### [using SQL to do some data exploration](https://github.com/oat0054/bootcamp_projects/blob/main/chinook.db.sql)
 - join table
@@ -40,6 +41,7 @@ We learn 10 sprints during 4 month program.
 - create view
 
 ![](/images/chinook_er.jpg)
+
 
 # Project 3: The Inc. 5000 lists the 5,000 fastest-growing private companies in the U.S. based on their revenue growth rate.
 #### [created dashboard by tableau public](https://github.com/oat0054/bootcamp_projects/blob/main/5000_inc_2014.pdf)
@@ -51,6 +53,13 @@ We learn 10 sprints during 4 month program.
 
 ![](/images/growth_ca_ny.png)
 
+
+# Project 4: Order Pizza!
+#### [writing interactive code by using R studio to order pizza](https://github.com/oat0054/bootcamp_projects/blob/main/order_pizza.R)
+- readline
+- while loop
+- ifelse
+- summary pizza order
 
 
 
