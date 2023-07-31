@@ -18,14 +18,25 @@ We learn 10 sprints during 4 month program.
 # Project 1: Sales Products Analysis 2019
 
 #### [sales product analysis with python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis.pdf)
-- merge the 12 months of sales data into a single csv file
-- remove rows of missing values
-- remove text data rows that not related
-- change data type
-- regular expression
-- aggregate
-- create bar chart with matplotlib.pyplot
-- 
+
+Questions:
+   - What was the best month for sales? How much was earned that month?
+   - What City had the highest number of sales?
+   - What time should we display adverstisement to maximize likelihood of  customer's buying product?
+   - What products are most often sold together?
+   - What product sold the most? Why do you think it sold the most?
+
+
+key technique:
+  - merge the 12 months of sales data into a single csv file
+  - remove rows of missing values
+  - remove text data rows that not related
+  - change data type
+  - add new columns
+  - regular expression
+  - aggregate
+  - create chart with matplotlib.pyplot
+    
 
 # Project 2: Mobile Vendor Market Share Thailand: Project Overview
 
