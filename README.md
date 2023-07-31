@@ -18,7 +18,7 @@ We learn 10 sprints during 4 month program.
 # Project 1: Sales Products Analysis 2019
 
 ![](https://raw.githubusercontent.com/oat0054/oat0054.github.io/main/images/apple_product.webp)
-#### [Sales Product Analysis with Python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis.pdf)
+### [Sales Product Analysis with Python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis.pdf)
 questions:
    - What was the best month for sales? How much was earned that month?
    - What City had the highest number of sales?
@@ -40,7 +40,7 @@ key technique:
 
 # Project 2: Mobile Vendor Market Share Thailand: Project Overview
 
-#### [Data preparation in R](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
+### [Data preparation in R](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
 - combine sheets
 - change column name to lowercase
 - change raw format to long format
