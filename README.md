@@ -17,7 +17,7 @@ We learn 10 sprints during 4 month program.
 
 # Project 1: Sales Products Analysis 2019
 
-#### [sales product analysis with python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis.pdf)
+#### [Sales Product Analysis with Python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis.pdf)
 
 questions:
    - What was the best month for sales? How much was earned that month?
@@ -42,14 +42,14 @@ key technique:
 
 # Project 2: Mobile Vendor Market Share Thailand: Project Overview
 
-#### [prepared data in r](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
+#### [Data preparation in R](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
 - combine sheets
 - change column name to lowercase
 - change raw format to long format
 - clean missing values
 - export CSV file
 
-#### [created reports on looker studio](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/Mobile_Vendor_Market_Share_Thailand_2018_-_2022.pdf)
+#### [Created Reports on Looker Studio](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/Mobile_Vendor_Market_Share_Thailand_2018_-_2022.pdf)
 - created scorecard
 - created bar chart
 - created time series chart
@@ -58,7 +58,7 @@ key technique:
 
 
 # Project 3: query chinook database
-#### [using SQL to do some data exploration](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
+#### [Using SQL to Do Some Data Exploration](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
 - join table
 - filter
 - aggregate
@@ -68,7 +68,7 @@ key technique:
 
 
 # Project 4: The Inc. 5000 lists the 5,000 fastest-growing private companies in the U.S. based on their revenue growth rate.
-#### [created dashboard by tableau public](https://github.com/oat0054/bootcamp_projects/blob/main/5000_inc_2014.pdf)
+#### [Created dashboard using Tableau Public](https://github.com/oat0054/bootcamp_projects/blob/main/5000_inc_2014.pdf)
 - Top 10 fastest growing industry
 - State Revenue Maps
 - Top 5  fastest growing company (CA, NY)
@@ -79,7 +79,7 @@ key technique:
 
 
 # Project 5: Order Pizza!
-#### [writing interactive code by using R studio to order pizza](https://github.com/oat0054/bootcamp_projects/blob/main/order_pizza.R)
+#### [Writing interactive code using R Studio to order pizza.](https://github.com/oat0054/bootcamp_projects/blob/main/order_pizza.R)
 - readline
 - while loop
 - ifelse
