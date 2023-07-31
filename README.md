@@ -40,14 +40,14 @@ key technique:
 
 # Project 2: Mobile Vendor Market Share Thailand: Project Overview
 
-### [Data preparation in R](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
+#### [Data preparation in R](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
 - combine sheets
 - change column name to lowercase
 - change raw format to long format
 - clean missing values
 - export CSV file
 
-### [Created Reports on Looker Studio](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/Mobile_Vendor_Market_Share_Thailand_2018_-_2022.pdf)
+#### [Created Reports on Looker Studio](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/Mobile_Vendor_Market_Share_Thailand_2018_-_2022.pdf)
 - created scorecard
 - created bar chart
 - created time series chart
@@ -56,7 +56,7 @@ key technique:
 
 
 # Project 3: query chinook database
-### [Using SQL to Do Some Data Exploration](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
+#### [Using SQL to Do Some Data Exploration](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
 - join table
 - filter
 - aggregate
@@ -66,7 +66,7 @@ key technique:
 
 
 # Project 4: The Inc. 5000 lists the 5,000 fastest-growing private companies in the U.S. based on their revenue growth rate.
-### [Created dashboard using Tableau Public](https://github.com/oat0054/bootcamp_projects/blob/main/5000_inc_2014.pdf)
+#### [Created dashboard using Tableau Public](https://github.com/oat0054/bootcamp_projects/blob/main/5000_inc_2014.pdf)
 - Top 10 fastest growing industry
 - State Revenue Maps
 - Top 5  fastest growing company (CA, NY)
@@ -77,7 +77,7 @@ key technique:
 
 
 # Project 5: Order Pizza!
-### [Writing interactive code using R Studio to order pizza.](https://github.com/oat0054/bootcamp_projects/blob/main/order_pizza.R)
+#### [Writing interactive code using R Studio to order pizza.](https://github.com/oat0054/bootcamp_projects/blob/main/order_pizza.R)
 - readline
 - while loop
 - ifelse
