@@ -17,6 +17,8 @@ We learn 10 sprints during 4 month program.
 
 # Project 1: Sales Products Analysis 2019
 
+#### [sales product analysis with python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis_removed.pdf)
+
 
 # Project 2: Mobile Vendor Market Share Thailand: Project Overview
 
