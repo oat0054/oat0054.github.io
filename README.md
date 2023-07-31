@@ -19,7 +19,7 @@ We learn 10 sprints during 4 month program.
 
 #### [sales product analysis with python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis.pdf)
 
-Questions:
+questions:
    - What was the best month for sales? How much was earned that month?
    - What City had the highest number of sales?
    - What time should we display adverstisement to maximize likelihood of  customer's buying product?
