@@ -36,7 +36,7 @@ We learn 10 sprints during 4 month program.
 
 
 # Project 3: query chinook database
-#### [using SQL to do some data exploration]([https://github.com/oat0054/bootcamp_projects/blob/main/chinook.db.sql](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
+#### [using SQL to do some data exploration](https://github.com/oat0054/bootcamp_projects/blob/main/chinook.db.sql](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
 - join table
 - filter
 - aggregate
