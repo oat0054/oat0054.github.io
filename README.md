@@ -1,4 +1,4 @@
-# Bootcamp Projects
+# Data Analytics Projects
 
 Data science bootcamp with `adToy`
 
