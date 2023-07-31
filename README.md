@@ -36,7 +36,9 @@ key technique:
   - regular expression
   - aggregate
   - create chart with matplotlib.pyplot
-    
+
+![](https://raw.githubusercontent.com/oat0054/oat0054.github.io/main/images/apple_product.webp)
+
 
 # Project 2: Mobile Vendor Market Share Thailand: Project Overview
 
