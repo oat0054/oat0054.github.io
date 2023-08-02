@@ -22,7 +22,26 @@ key technique:
   - create chart with matplotlib.pyplot
 
 
-# Project 2: Mobile Vendor Market Share Thailand: Project Overview
+# Project 2: 24 hours of le mans 2023: Web Scrapping
+
+![](images/leman_lab.png)
+### [Web Scrapping using python](projects/24 hours of le mans 2023.pdf)
+questions:
+   - How many teams participated in the Le Mans 2023 event?
+   - How many cars are there in each class?
+   - What is the average number of laps for each class of car?
+   - What are the top 3 cars for each class?
+   - What is the performance comparison between the Chevrolet Corvette C8.R and the hypercar class?(based on the "labs" parameter)
+
+
+task:
+   - Scraping data using the Gazpacho library
+   - Create a function to scrape team names
+   - Create data frame
+   - Create visualizations using matplotlib.pyplot
+
+
+# Project 3: Mobile Vendor Market Share Thailand: Project Overview
 
 #### [Data preparation in R](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
 - combine sheets
@@ -39,7 +58,7 @@ key technique:
 ![](/images/phone_time_series.png)
 
 
-# Project 3: query chinook database
+# Project 4: query chinook database
 #### [Using SQL to Do Some Data Exploration](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
 - join table
 - filter
@@ -49,7 +68,7 @@ key technique:
 ![](/images/chinook_er.jpg)
 
 
-# Project 4: The Inc. 5000 lists the 5,000 fastest-growing private companies in the U.S. based on their revenue growth rate.
+# Project 5: The Inc. 5000 lists the 5,000 fastest-growing private companies in the U.S. based on their revenue growth rate.
 #### [Created dashboard using Tableau Public](https://github.com/oat0054/bootcamp_projects/blob/main/5000_inc_2014.pdf)
 - Top 10 fastest growing industry
 - State Revenue Maps
@@ -60,7 +79,7 @@ key technique:
 ![](/images/growth_ca_ny.png)
 
 
-# Project 5: Order Pizza!
+# Project 6: Order Pizza!
 #### [Writing interactive code using R Studio to order pizza.](https://github.com/oat0054/bootcamp_projects/blob/main/order_pizza.R)
 - readline
 - while loop
