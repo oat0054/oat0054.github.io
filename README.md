@@ -1,7 +1,7 @@
 
 # Project 1: Sales Products Analysis 2019
 
-![](https://raw.githubusercontent.com/oat0054/oat0054.github.io/main/images/apple_product.webp)
+![](images/sale_product_analysis.png)
 ### [Sales Product Analysis with Python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis.pdf)
 questions:
    - What was the best month for sales? How much was earned that month?
