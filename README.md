@@ -25,7 +25,7 @@ key technique:
 # Project 2: 24 hours of le mans 2023: Web Scrapping
 
 ![](images/leman_lab.png)
-### [Web Scrapping using python](projects/24 hours of le mans 2023.pdf)
+### [Web Scrapping using python]([projects/24 hours of le mans 2023.pdf](https://github.com/oat0054/oat0054.github.io/blob/main/projects/24%20hours%20of%20le%20mans%202023.pdf))
 questions:
    - How many teams participated in the Le Mans 2023 event?
    - How many cars are there in each class?
