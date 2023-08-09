@@ -6,7 +6,7 @@
 - transform necessary Data
 
 
-  ![](/images/phone_time_series.png)
+  ![](images/sql_sales.png)
 
 
 #### [Creating a Data Model with Power BI](images/model_sales_powerbi.png)
