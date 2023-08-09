@@ -81,7 +81,7 @@ task:
 
 
 # Project 5: query chinook database
-#### [Using SQL to Do Some Data Exploration](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
+#### [Using SQLite to Do Some Data Exploration](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
 - join table
 - filter
 - aggregate
