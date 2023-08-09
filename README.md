@@ -1,6 +1,6 @@
 
 # Project 1: Sales Management
-#### [Data Cleansing & Transformation (SQL)](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
+#### [Data Cleansing & Transformation (SQL)](projects/sales_sql_bi)
 - extract Data using SQL
 - clean Data
 - transform necessary Data
