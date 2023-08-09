@@ -77,7 +77,7 @@ task:
 - created bar chart
 - created time series chart
 
-![](/images/phone_time_series.png)
+![](images/phone_lookerstudio.png)
 
 
 # Project 5: query chinook database
