@@ -1,4 +1,28 @@
 
+# Project 1: Sales Management
+#### [Data Cleansing & Transformation (SQL)](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
+- extract Data using SQL
+- clean Data
+- transform necessary Data
+
+
+  ![](/images/phone_time_series.png)
+
+
+#### [Data Model](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/Mobile_Vendor_Market_Share_Thailand_2018_-_2022.pdf)
+- connect FACT_Budget to FACT_InternetSales and other  DIM tables.
+
+
+![](/images/phone_time_series.png)
+
+#### [Sales Management Dashboard](https://app.powerbi.com/links/vu6NZIJEoY?ctid=4dd8a667-96b2-4697-8036-3b1a6c85424e&pbi_source=linkShare)
+- created Dashboard using Power BI
+
+
+![](/images/phone_time_series.png)
+
+
+
 # Project 1: Sales Products Analysis 2019
 
 ![](images/sale_product_analysis.png)
