@@ -21,7 +21,8 @@ key technique:
   - create chart with matplotlib.pyplot
 
 
-# Project 2: Sales Management
+# Project 2: Sales Management - Fulfilling the business request
+![](images/business_request.png)
 #### [Data Cleansing & Transformation (SQL)](projects/sales_sql_bi)
 - extract data using SQL
 - clean data
