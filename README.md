@@ -19,7 +19,7 @@
 - created dashboard using Power BI
 
 
-![](/images/phone_time_series.png)
+![](images/sales_dashboard.png)
 
 
 
