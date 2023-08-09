@@ -1,28 +1,3 @@
-
-# Project 1: Sales Management
-#### [Data Cleansing & Transformation (SQL)](projects/sales_sql_bi)
-- extract data using SQL
-- clean data
-- transform necessary data
-
-
-  ![](images/sql_sales.png)
-
-
-#### [Creating a Data Model with Power BI](images/model_sales_powerbi.png)
-- connect FACT_Budget to FACT_InternetSales and other  DIM tables.
-
-
-![](images/model_sales_powerbi.png)
-
-#### [Sales Management Dashboard](https://app.powerbi.com/links/vu6NZIJEoY?ctid=4dd8a667-96b2-4697-8036-3b1a6c85424e&pbi_source=linkShare)
-- created dashboard using Power BI
-
-
-![](images/sales_dashboard.png)
-
-
-
 # Project 1: Sales Products Analysis 2019
 
 ![](images/sale_product_analysis.png)
@@ -44,6 +19,28 @@ key technique:
   - regular expression
   - aggregate
   - create chart with matplotlib.pyplot
+
+
+# Project 2: Sales Management
+#### [Data Cleansing & Transformation (SQL)](projects/sales_sql_bi)
+- extract data using SQL
+- clean data
+- transform necessary data
+
+![](images/sql_sales.png)
+
+
+#### [Creating a Data Model with Power BI](images/model_sales_powerbi.png)
+- connect FACT_Budget to FACT_InternetSales and other  DIM tables.
+
+![](images/model_sales_powerbi.png)
+
+#### [Sales Management Dashboard](https://app.powerbi.com/links/vu6NZIJEoY?ctid=4dd8a667-96b2-4697-8036-3b1a6c85424e&pbi_source=linkShare)
+- created dashboard using Power BI
+
+![](images/sales_dashboard.png)
+
+
 
 
 # Project 2: 24 hours of le mans 2023: Web Scrapping
@@ -91,17 +88,6 @@ task:
 - create view
 
 ![](/images/chinook_er.jpg)
-
-
-# Project 5: The Inc. 5000 lists the 5,000 fastest-growing private companies in the U.S. based on their revenue growth rate.
-#### [Created dashboard using Tableau Public](https://github.com/oat0054/bootcamp_projects/blob/main/5000_inc_2014.pdf)
-- Top 10 fastest growing industry
-- State Revenue Maps
-- Top 5  fastest growing company (CA, NY)
-- Relationship between a number of worker and growth of company
-- Top 5 highest revenue cities
-
-![](/images/growth_ca_ny.png)
 
 
 # Project 6: Order Pizza!
