@@ -9,7 +9,7 @@
   ![](/images/phone_time_series.png)
 
 
-#### [Data Model](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/Mobile_Vendor_Market_Share_Thailand_2018_-_2022.pdf)
+#### [Data Model](images/model_sales_powerbi.png)
 - connect FACT_Budget to FACT_InternetSales and other  DIM tables.
 
 
