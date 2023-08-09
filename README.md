@@ -72,7 +72,7 @@ task:
 - clean missing values
 - export CSV file
 
-#### [Created Reports on Looker Studio](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/Mobile_Vendor_Market_Share_Thailand_2018_-_2022.pdf)
+#### [Created Reports on Looker Studio](https://lookerstudio.google.com/s/uGCx8Gzshuc)
 - created scorecard
 - created bar chart
 - created time series chart
