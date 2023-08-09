@@ -13,7 +13,7 @@
 - connect FACT_Budget to FACT_InternetSales and other  DIM tables.
 
 
-![](/images/phone_time_series.png)
+![](images/model_sales_powerbi.png)
 
 #### [Sales Management Dashboard](https://app.powerbi.com/links/vu6NZIJEoY?ctid=4dd8a667-96b2-4697-8036-3b1a6c85424e&pbi_source=linkShare)
 - created Dashboard using Power BI
