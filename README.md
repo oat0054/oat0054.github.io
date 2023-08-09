@@ -9,7 +9,7 @@
   ![](/images/phone_time_series.png)
 
 
-#### [Data Model](images/model_sales_powerbi.png)
+#### [Creating a Data Model with Power BI](images/model_sales_powerbi.png)
 - connect FACT_Budget to FACT_InternetSales and other  DIM tables.
 
 
