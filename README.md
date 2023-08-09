@@ -27,17 +27,22 @@ key technique:
 - extract data using SQL
 - clean data
 - transform necessary data
+- join table
 
 ![](images/sql_sales.png)
 
 
 #### [Creating a Data Model with Power BI](images/model_sales_powerbi.png)
-- connect FACT_Budget to FACT_InternetSales and other  DIM tables.
+- create a data model using the Star Schema
+- connect FACT_Budget to FACT_InternetSales and other DIM tables
 
 ![](images/model_sales_powerbi.png)
 
 #### [Sales Management Dashboard](https://app.powerbi.com/links/vu6NZIJEoY?ctid=4dd8a667-96b2-4697-8036-3b1a6c85424e&pbi_source=linkShare)
-- created dashboard using Power BI
+- create a dashboard using Power BI
+- design a dashboard for displaying sales overview
+- design a dashboard for displaying customer details
+- design a dashboard for displaying product details
 
 ![](images/sales_dashboard.png)
 
@@ -46,7 +51,7 @@ key technique:
 
 # Project 3: 24 hours of le mans 2023: Web Scrapping
 
-#### [Web Scrapping using python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/24%20hours%20of%20le%20mans%202023.pdf)
+#### [Web Scrapping using Python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/24%20hours%20of%20le%20mans%202023.pdf)
 questions:
    - How many teams participated in the Le Mans 2023 event?
    - How many cars are there in each class?
