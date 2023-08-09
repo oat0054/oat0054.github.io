@@ -43,7 +43,7 @@ key technique:
 
 
 
-# Project 2: 24 hours of le mans 2023: Web Scrapping
+# Project 3: 24 hours of le mans 2023: Web Scrapping
 
 #### [Web Scrapping using python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/24%20hours%20of%20le%20mans%202023.pdf)
 questions:
@@ -63,7 +63,7 @@ task:
 ![](images/leman_lab.png)
 
 
-# Project 3: Mobile Vendor Market Share Thailand: Project Overview
+# Project 4: Mobile Vendor Market Share Thailand: Project Overview
 
 #### [Data preparation in R](https://github.com/oat0054/bootcamp_projects/blob/main/smartphone_th/data%20transformation%20-%20phone_vendor_th_project%20%E2%80%93%20Datalore.pdf)
 - combine sheets
@@ -80,7 +80,7 @@ task:
 ![](/images/phone_time_series.png)
 
 
-# Project 4: query chinook database
+# Project 5: query chinook database
 #### [Using SQL to Do Some Data Exploration](https://github.com/oat0054/oat0054.github.io/blob/main/projects/chinook.db.sql)
 - join table
 - filter
