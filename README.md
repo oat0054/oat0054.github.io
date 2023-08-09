@@ -1,4 +1,4 @@
-# Project 1: Sales Products Analysis 2019
+# Project 1: Sales Products Analysis 2019 - Respond to the query using Python
 
 ![](images/sale_product_analysis.png)
 #### [Sales Product Analysis with Python](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis.pdf)
