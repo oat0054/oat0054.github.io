@@ -1,9 +1,9 @@
 
 # Project 1: Sales Management
 #### [Data Cleansing & Transformation (SQL)](projects/sales_sql_bi)
-- extract Data using SQL
-- clean Data
-- transform necessary Data
+- extract data using SQL
+- clean data
+- transform necessary data
 
 
   ![](images/sql_sales.png)
@@ -16,7 +16,7 @@
 ![](images/model_sales_powerbi.png)
 
 #### [Sales Management Dashboard](https://app.powerbi.com/links/vu6NZIJEoY?ctid=4dd8a667-96b2-4697-8036-3b1a6c85424e&pbi_source=linkShare)
-- created Dashboard using Power BI
+- created dashboard using Power BI
 
 
 ![](/images/phone_time_series.png)
