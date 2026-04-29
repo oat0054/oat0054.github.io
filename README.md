@@ -1,3 +1,15 @@
+# Project Backgroud
+Apex Machinery, established in 2004,  is a joint venture selling hydraulic excavators and others machinery in Thailand.
+
+The company has significant amounts of data on its sales, marketing effort, operational efficiency and loyalty program that has been previously underutilized.
+This project thorouhly analyzes and synthesizes this data in order to uncover critical insights that will improve Apex Machinery's success.
+
+Insights and recommendations are provided on the following key areas:
+
+
+
+
+
 # Project 1: Sales Products Analysis 2019 
 
 ![](images/sale_product_analysis.png)
