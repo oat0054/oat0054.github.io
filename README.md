@@ -9,7 +9,7 @@ In the heavy machinery industry, a "Lost" deal isn't just a missed sale—it's a
 By analyzing specific Loss Reasons and Competitive Landscapes, this project provides a data-driven autopsy of 54 lost units to understand why our Win Rate sits at 17.5%. The objective is to identify whether our hurdles are internal (process delays) or external (competitor pricing), enabling the management team to pivot strategies for the upcoming financial year.
 
 Insights and recommendations are provided on the following key areas:
-* **Lost Sales Trends Analysis:** Evaluation of historical lost sales patterns both in Thailand and by region, focusing on customer type, lost to competitor, and lost reason.
+* **Lost Sales Trends Analysis:** Evaluation of historical lost sales patterns at both the national and regional levels, focusing on customer types, competitors, and primary reasons for loss.
 * **Competitor Advantage Mapping:** Identifies which rival brands outperform us in key categories. Users can drill down into specific sub-reasons—like technician skills or spare parts quality—via interactive tooltips, helping to pinpoint our exact weaknesses against each competitor. 
 
 
