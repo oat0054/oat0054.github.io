@@ -10,21 +10,7 @@ By analyzing specific Loss Reasons and Competitive Landscapes, this project prov
 
 Insights and recommendations are provided on the following key areas:
 * **Lost Sales Trends Analysis:** Evaluation of historical lost sales patterns both in Thailand and by region, focusing on customer type, lost to competitor, and lost reason.
-
-2. Why Customers Choose Competitors
-Insight: "Competitor Price" is the number one reason we lose deals. Our biggest rivals are SANY and Caterpillar. Customers often leave us because they find a cheaper option elsewhere.
-
-Recommendation: We should not just lower our prices. Instead, we should offer better payment plans (like special interest rates) or highlight our superior after-sales service to show customers that our machines are worth the higher price in the long run.
-
-3. Problems in the Sales Process
-Insight: Most of our deals fail at the "Quotation" and "Negotiation" stages. This means we are good at finding customers, but we struggle to finish the deal when it comes to the final price discussion.
-
-Recommendation: We need to give our sales team "Comparison Guides" that clearly show why our machines are better than SANY or Caterpillar. This will give them more confidence to defend our price during negotiations.
-
-4. Planning by Region
-Insight: Different areas have different problems. Some regions lose deals because of price, while others lose deals because the competitor can deliver the machine faster.
-
-Recommendation: We should create a specific plan for each area. For example, in regions where price is the biggest issue, we can offer free maintenance packages or extra parts to make our offer more attractive without cutting the main price.
+* **Competitor Advantage Mapping:** Identifies which rival brands outperform us in key categories. Users can drill down into specific sub-reasons—like technician skills or spare parts quality—via interactive tooltips, helping to pinpoint our exact weaknesses against each competitor. 
 
 
 
