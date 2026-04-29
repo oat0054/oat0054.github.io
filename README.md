@@ -2,10 +2,32 @@
 Apex Machinery, established in 2004,  is a joint venture selling hydraulic excavators and others machinery in Thailand.
 
 The company has significant amounts of data on its sales, marketing effort, operational efficiency and loyalty program that has been previously underutilized.
-This project thorouhly analyzes and synthesizes this data in order to uncover critical insights that will improve Apex Machinery's success.
+This project thoroughly analyzes Sales Opportunity Data and Field Histories to uncover why deals are lost to identify patterns, competitor movements, and internal friction points. The goal is to transform "Loss" into "Learning," giving management the data-driven insights needed to refine pricing strategies and sales tactics.
+
+In the heavy machinery industry, a "Lost" deal isn't just a missed sale—it's a high-value asset worth millions of Baht going to a competitor. This Salesforce-integrated Dashboard was developed to perform a post-mortem on 83M THB in Lost Revenue.
+
+By analyzing specific Loss Reasons and Competitive Landscapes, this project provides a data-driven autopsy of 54 lost units to understand why our Win Rate sits at 17.5%. The objective is to identify whether our hurdles are internal (process delays) or external (competitor pricing), enabling the management team to pivot strategies for the upcoming financial year.
 
 Insights and recommendations are provided on the following key areas:
+#### Win Rate and Total Lost Money
+Insight: We currently win only 17.5% of our deals. This means we have lost over 83 Million Baht in potential sales. On average, every deal we lose costs the company about 1.5 Million Baht.
 
+Recommendation: If we can improve our win rate by just 5%, we could bring in an extra 20 Million Baht per year. We should focus on studying the deals we "almost won" to see what small changes could have helped us close them.
+
+2. Why Customers Choose Competitors
+Insight: "Competitor Price" is the number one reason we lose deals. Our biggest rivals are SANY and Caterpillar. Customers often leave us because they find a cheaper option elsewhere.
+
+Recommendation: We should not just lower our prices. Instead, we should offer better payment plans (like special interest rates) or highlight our superior after-sales service to show customers that our machines are worth the higher price in the long run.
+
+3. Problems in the Sales Process
+Insight: Most of our deals fail at the "Quotation" and "Negotiation" stages. This means we are good at finding customers, but we struggle to finish the deal when it comes to the final price discussion.
+
+Recommendation: We need to give our sales team "Comparison Guides" that clearly show why our machines are better than SANY or Caterpillar. This will give them more confidence to defend our price during negotiations.
+
+4. Planning by Region
+Insight: Different areas have different problems. Some regions lose deals because of price, while others lose deals because the competitor can deliver the machine faster.
+
+Recommendation: We should create a specific plan for each area. For example, in regions where price is the biggest issue, we can offer free maintenance packages or extra parts to make our offer more attractive without cutting the main price.
 
 
 
