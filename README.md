@@ -9,10 +9,7 @@ In the heavy machinery industry, a "Lost" deal isn't just a missed sale—it's a
 By analyzing specific Loss Reasons and Competitive Landscapes, this project provides a data-driven autopsy of 54 lost units to understand why our Win Rate sits at 17.5%. The objective is to identify whether our hurdles are internal (process delays) or external (competitor pricing), enabling the management team to pivot strategies for the upcoming financial year.
 
 Insights and recommendations are provided on the following key areas:
-#### Win Rate and Total Lost Money
-Insight: We currently win only 17.5% of our deals. This means we have lost over 83 Million Baht in potential sales. On average, every deal we lose costs the company about 1.5 Million Baht.
-
-Recommendation: If we can improve our win rate by just 5%, we could bring in an extra 20 Million Baht per year. We should focus on studying the deals we "almost won" to see what small changes could have helped us close them.
+#### Lost Sales Trends Analysis: ###### Evaluation of historical lost sales patterns both in thailand and by reion, focusing on customer type, lost to compettitor, lost reason.
 
 2. Why Customers Choose Competitors
 Insight: "Competitor Price" is the number one reason we lose deals. Our biggest rivals are SANY and Caterpillar. Customers often leave us because they find a cheaper option elsewhere.
