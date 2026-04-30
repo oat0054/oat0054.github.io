@@ -12,6 +12,12 @@ Insights and recommendations are provided on the following key areas:
 * **Product Level Performance:** Analyzes loss rates by product and identifies the key factors that determine our wins and losses against competitors.
 *  **Regional Comparisons:** Compares performance across territories to identify localized competitor threats and regional patterns, helping management adjust their strategy for each specific area.
 
+An interactive Power BI dashboard can be found here.
+* Power Query (M Language) scripts used for data cleaning and transformation can be found here.
+* DAX Measures used to calculate business logic (e.g., % Loss Rate, Effective Forecast) can be found .
+* Salesforce Data Mapping and object relationship details can be found .
+* Data Validation steps performed in Power Query to ensure data accuracy can be found .
+
 
 # Project 1: Sales Products Analysis 2019 
 
