@@ -5,6 +5,7 @@ For the past two years, Apex Machinery’s market share has dropped. This is the
 
 This project thoroughly analyzes Sales Opportunity Data and Field Histories on salesforce system to uncover why deals are lost to identify patterns, competitor movements, and internal friction points. The goal is to transform loss into learning, giving management the data-driven insights needed to refine pricing strategies and sales tactics.
 
+
 Insights and recommendations are provided on the following key areas:
 * **Lost Sales Trends Analysis:** Evaluation of historical lost sales patterns at both the national and regional levels, focusing on customer types, competitors, and primary reasons for loss.
 * **Competitor Advantage Mapping:** Identifies which rival brands outperform us in key categories. Users can drill down into specific sub-reasons like technician skills or spare parts quality through interactive tooltips, helping to pinpoint our exact weaknesses against each competitor.
