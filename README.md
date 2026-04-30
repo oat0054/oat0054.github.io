@@ -1,12 +1,9 @@
 # Project Backgroud
-Apex Machinery, established in 2004,  is a joint venture selling hydraulic excavators and others machinery in Thailand.
+Apex Machinery, established in 2004, is a joint venture that sells hydraulic excavators and other machinery in Thailand.
 
-The company has significant amounts of data on its sales, marketing effort, operational efficiency and loyalty program that has been previously underutilized.
-This project thoroughly analyzes Sales Opportunity Data and Field Histories to uncover why deals are lost to identify patterns, competitor movements, and internal friction points. The goal is to transform "Loss" into "Learning," giving management the data-driven insights needed to refine pricing strategies and sales tactics.
+For the past two years, Apex Machinery’s market share has dropped. This is the reason why this Lost Sales Analysis was created—to find the real reasons for the decline and help management plan for a recovery.
 
-In the heavy machinery industry, a "Lost" deal isn't just a missed sale—it's a high-value asset worth millions of Baht going to a competitor. This Salesforce-integrated Dashboard was developed to perform a post-mortem on 83M THB in Lost Revenue.
-
-By analyzing specific Loss Reasons and Competitive Landscapes, this project provides a data-driven autopsy of 54 lost units to understand why our Win Rate sits at 17.5%. The objective is to identify whether our hurdles are internal (process delays) or external (competitor pricing), enabling the management team to pivot strategies for the upcoming financial year.
+This project thoroughly analyzes Sales Opportunity Data and Field Histories on salesforce system to uncover why deals are lost to identify patterns, competitor movements, and internal friction points. The goal is to transform loss into learning, giving management the data-driven insights needed to refine pricing strategies and sales tactics.
 
 Insights and recommendations are provided on the following key areas:
 * **Lost Sales Trends Analysis:** Evaluation of historical lost sales patterns at both the national and regional levels, focusing on customer types, competitors, and primary reasons for loss.
