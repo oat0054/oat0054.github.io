@@ -1,5 +1,5 @@
 let
-    // --- 1. Data Extraction & Early Filtering (Source & Org Data Anonymized) ---
+    // --- 1. Data Extraction & Early Filtering ---
     // Source connection string and API version are masked for data privacy
     Source = Salesforce.Data("https://[MASKED_CRM_URL]/", [ApiVersion=XX]),
     OpportunityData = Source{[Name="Opportunity"]}[Data],
