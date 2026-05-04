@@ -1,4 +1,4 @@
-```powerquery
+
 let
     // --- 1. Combine Data Sources ---
     Source = Table.Combine({#"Opportunity Lost", #"Opportunity Won"}),
@@ -37,4 +37,4 @@ let
     })
 in
     FinalColumns
-```
+
