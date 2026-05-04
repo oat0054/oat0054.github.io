@@ -1,4 +1,3 @@
-```powerquery
 let
     /* 
        --- 1. Data Extraction & Initial Filtering ---
