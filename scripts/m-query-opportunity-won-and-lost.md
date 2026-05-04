@@ -37,4 +37,4 @@ let
     })
 in
     FinalColumns
-```powerquery
+```
