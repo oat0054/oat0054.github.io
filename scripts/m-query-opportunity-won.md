@@ -1,3 +1,4 @@
+```powerquery
 let
     // --- 1. Data Extraction & Early Filtering ---
     // Source connection string and API version are masked for data privacy
