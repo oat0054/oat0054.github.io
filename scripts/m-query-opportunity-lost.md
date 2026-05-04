@@ -3,9 +3,10 @@ let
     /* 
        --- 1. Data Extraction & Initial Filtering ---
     */
-    Source = Salesforce.Data("https://<YOUR_INSTANCE>.salesforce.com/", [ApiVersion=48]),
+    Source connection string and API version are masked for data privacy
+    Source = Salesforce.Data("https://[MASKED_CRM_URL]/", [ApiVersion=XX]),
     OpportunityData = Source{[Name="Opportunity"]}[Data],
-    
+
     // Filter rows early to optimize performance (Folding)
     FilteredRows = Table.SelectRows(OpportunityData, each 
         ([Department_by_User__c] = "Primary_Business_Unit") and 
