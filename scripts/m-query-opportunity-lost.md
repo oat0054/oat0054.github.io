@@ -2,7 +2,6 @@
 let
     /* 
        --- 1. Data Extraction & Initial Filtering ---
-       Recommendation: Use Parameters for Salesforce URL and ApiVersion for better maintenance.
     */
     Source = Salesforce.Data("https://<YOUR_INSTANCE>.salesforce.com/", [ApiVersion=48]),
     OpportunityData = Source{[Name="Opportunity"]}[Data],
