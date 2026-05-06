@@ -1,3 +1,4 @@
+```powerquery
 let
     Source = Salesforce.Data(), // Connected to Salesforce API
     /* ... Data extraction steps ... */
