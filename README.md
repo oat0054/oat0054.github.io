@@ -14,7 +14,7 @@ Insights and recommendations are provided on the following key areas:
 
 An interactive Power BI dashboard can be found [here.](https://github.com/oat0054/oat0054.github.io/blob/main/projects/Sales%20Products%20Analysis.pdf)
 * Power Query (M Language) scripts used for data cleaning and transformation can be found [here](https://github.com/oat0054/oat0054.github.io/tree/main/Dax%20Measures%20Script%20Folder)
-* DAX Measures used to calculate business logic (e.g., % Loss Rate, Effective Forecast) can be found [here.](https://github.com/oat0054/oat0054.github.io/blob/main/Dax%20Measures%20Script%20Folder/README.md).
+* DAX Measures used to calculate business logic (e.g., % Loss Rate, Effective Forecast) can be found [here.](https://github.com/oat0054/oat0054.github.io/blob/main/Dax%20Measures%20Script%20Folder/README.md)
 * Salesforce Data Mapping and object relationship details can be found .
 * Data Validation steps performed in Power Query to ensure data accuracy can be found .
 
