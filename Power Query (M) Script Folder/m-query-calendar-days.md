@@ -1,4 +1,4 @@
-'''Power Query
+```powerquery
 let
     // --- 1. Setup Parameters ---
     StartDate = #date(2021, 4, 1),
