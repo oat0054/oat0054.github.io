@@ -1,4 +1,4 @@
-# 📂 Reason Mapping & Standardization Script
+# 📂 Reason Mapping
 
 ### 🎯 Business Objective
 In Salesforce, "Loss Reasons" are often captured as raw text or multi-select picklists. To create a meaningful **Lost Sales Analysis Dashboard**, these reasons must be:
