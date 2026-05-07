@@ -97,6 +97,6 @@ in
 ---
 
 ###  Navigation
-* [⬆️ Return to Project Overview](../README.md)
-* [⬅️ Back to Main Power Query (M) Scripts](https://github.com/oat0054/oat0054.github.io/blob/main/Power%20Query%20(M)%20Script%20Folder/README.md)
-* [🏠 Back to Top](#-calendar-days-date-table)
+* [ Return to Project Overview](../README.md)
+* [ Back to Main Power Query (M) Scripts](https://github.com/oat0054/oat0054.github.io/blob/main/Power%20Query%20(M)%20Script%20Folder/README.md)
+* [ Back to Top](#-calendar-days-date-table)
