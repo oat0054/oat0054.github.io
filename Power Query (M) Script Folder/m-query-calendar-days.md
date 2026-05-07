@@ -9,7 +9,7 @@ I created this Date Table to make time-based calculations in Power BI more accur
 ### Key Technical Features
 * **Built for Speed:** Instead of adding columns one by one (which can slow things down), I used a "Record" technique to calculate everything in one pass. This makes the data refresh much faster.
 
-* **Auto-Updating Logic:**The "Month Type" column always stays current based on today's date, ensuring the report is always up to date.
+* **Auto-Updating Logic:** The "Month Type" column always stays current based on today's date, ensuring the report is always up to date.
 
 * **Easy to Maintain:** I placed the setup parameters (Start Date and duration) at the very top. This allows others to easily adjust the calendar without having to dig through the code below.
 ```powerquery
