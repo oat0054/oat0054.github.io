@@ -82,10 +82,18 @@ let
 in
     FinalTable
 ```
-<>
+
 
 ****Calendar Days Table****
 
 <img width="1462" height="599" alt="image" src="https://github.com/user-attachments/assets/2a8b87c2-0ec9-4cc2-b0d6-100e72b02623" />
+Related Scripts in this Project
+ส่วนนี้สำคัญมาก เพื่อให้คนตรวจงานกดดูไฟล์อื่นต่อได้ง่ายๆ ครับ:
+
+📂 Opportunity Analysis Logic - โค้ดสำหรับจัดการตาราง Won/Lost
+
+📂 Reason Mapping Standardization - การจัดกลุ่มเหตุผลการขาย
+
+📊 DAX Measures Library - รวมสูตรการคำนวณ KPI ทั้งหมด
 
 [⬅️ Back to Main Power Query (M) Scripts](https://github.com/oat0054/oat0054.github.io/blob/main/Power%20Query%20(M)%20Script%20Folder/README.md)
