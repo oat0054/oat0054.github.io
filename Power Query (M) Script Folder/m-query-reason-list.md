@@ -1,11 +1,11 @@
-# 📂 Reason Mapping
+# Reason Mapping
 
-### 🎯 Business Objective
+### Business Objective
 In Salesforce, "Loss Reasons" are often captured as raw text or multi-select picklists. To create a meaningful **Lost Deals Analysis Dashboard**, these reasons must be:
 1.  **Standardized:** Categorized into High-level "Main Reasons" (e.g., Pricing, Product).
 2.  **Ordered Logically:** Sorted by the sales stage journey rather than alphabetically.
 
-✨ Key Technical Features
+Key Technical Features
 *   **No Extra Files Needed (Self-Contained):** The mapping data is built directly into the script. This ensures the Power BI report works perfectly without needing a separate Excel file.
 *   **Better Sorting Method:** I used List.PositionOf to rank the categories. This method is much faster and easier to update than using many if-else lines.
 *   **Faster Loading:** I used Table.Buffer() to store the data in memory. This significantly speeds up the process when merging this table with other data.
