@@ -2,9 +2,9 @@
 ### Business Objective
 I created this Date Table to make time-based calculations in Power BI more accurate and much easier to handle. It focuses on two main goals:
 
-1. **Aligned with the Fiscal Year: I set the calendar to start in April, matching company's financial reporting cycle.**
+1. ** Aligned with the Fiscal Year: ** I set the calendar to start in April, matching company's financial reporting cycle.
 
-2. **Relative Time Filtering: Easily filtering data by "This Month", "Past Month" so Users don't have to manually pick dates.**
+2. ** Relative Time Filtering: ** Easily filtering data by "This Month", "Past Month" so Users don't have to manually pick dates.
 
 ### Key Technical Features
 * **Built for Speed:** Instead of adding columns one by one (which can slow things down), I used a "Record" technique to calculate everything in one pass. This makes the data refresh much faster.
