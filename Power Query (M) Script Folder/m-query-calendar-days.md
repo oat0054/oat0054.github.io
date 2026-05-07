@@ -2,16 +2,15 @@
 ### Business Objective
 I created this Date Table to make time-based calculations in Power BI more accurate and much easier to handle. It focuses on two main goals:
 
-1. **Aligned with the Fiscal Year: I set the calendar to start in April, matching my company's actual financial reporting cycle.**
+1. **Aligned with the Fiscal Year: I set the calendar to start in April, matching company's financial reporting cycle.**
 
-2. **Instant Time Filtering: It includes a system to group dates into "This Month," "Last Month," or "Future," so I don't have to manually pick dates every time I run a report.**
+2. **Relative Time Filtering: Easily filtering data by "This Month", "Past Month" so Users don't have to manually pick dates.**
 
 ### Key Technical Features
 * **Built for Speed:** Instead of adding columns one by one (which can slow things down), I used a "Record" technique to calculate everything in one pass. This makes the data refresh much faster.
 
-* **Auto-Updating Logic:** The "Month Type" column always stays current based on today's date, ensuring the report is always up to date.
+* **Dynamic Relative Logic:** Automatically calculates the difference between the data date and today's date to categorize months dynamically
 
-* **Easy to Maintain:** I placed the setup parameters (Start Date and duration) at the very top. This allows others to easily adjust the calendar without having to dig through the code below.
 ```powerquery
 let
     // --- 1. Setup Parameters ---
@@ -80,3 +79,6 @@ let
     })
 in
     FinalTable
+```
+<img width="1462" height="599" alt="image" src="https://github.com/user-attachments/assets/2a8b87c2-0ec9-4cc2-b0d6-100e72b02623" />
+
