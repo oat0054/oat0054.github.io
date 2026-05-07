@@ -13,7 +13,7 @@ I created this Date Table to make time-based calculations in Power BI more accur
 <details>
 <summary><b>View M Language Script (Click to expand)</b></summary>
 
-```powerquery
+```markdown
 let
     // --- 1. Setup Parameters ---
     StartDate = #date(2021, 4, 1),
