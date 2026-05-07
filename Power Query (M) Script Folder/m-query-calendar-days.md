@@ -82,7 +82,7 @@ let
 in
     FinalTable
 ```
-
+</details>
 
 ****Calendar Days Table****
 
@@ -90,10 +90,14 @@ in
 Related Scripts in this Project
 ส่วนนี้สำคัญมาก เพื่อให้คนตรวจงานกดดูไฟล์อื่นต่อได้ง่ายๆ ครับ:
 
-📂 Opportunity Analysis Logic - โค้ดสำหรับจัดการตาราง Won/Lost
+```markdown
+### 🔗 Related Scripts in this Project
+* [📂 Opportunity Analysis Logic](./m-query-opportunity.md) – Script for managing Won/Lost tables.
+* [📂 Reason Mapping Standardization](./m-query-reason-mapping.md) – Categorizing and grouping sales reasons.
+* [📊 DAX Measures Library](../DAX/README.md) – Collection of all KPI calculations and measures.
+---
 
-📂 Reason Mapping Standardization - การจัดกลุ่มเหตุผลการขาย
-
-📊 DAX Measures Library - รวมสูตรการคำนวณ KPI ทั้งหมด
-
+### 🔝 Navigation
+* [⬆️ Return to Project Overview](../README.md)
+* [🏠 Back to Top](#-calendar-days-date-table)
 [⬅️ Back to Main Power Query (M) Scripts](https://github.com/oat0054/oat0054.github.io/blob/main/Power%20Query%20(M)%20Script%20Folder/README.md)
