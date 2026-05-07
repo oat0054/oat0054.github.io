@@ -9,6 +9,8 @@ In Salesforce, "Loss Reasons" are often captured as raw text or multi-select pic
 *   **No Extra Files Needed (Self-Contained):** The mapping data is built directly into the script. This ensures the Power BI report works perfectly without needing a separate Excel file.
 *   **Better Sorting Method:** I used List.PositionOf to rank the categories. This method is much faster and easier to update than using many if-else lines.
 *   **Faster Loading:** I used Table.Buffer() to store the data in memory. This significantly speeds up the process when merging this table with other data.
+<img width="1095" height="871" alt="image" src="https://github.com/user-attachments/assets/d95642fc-6bc4-4137-b315-3cd95f22de5a" />
+
 ```powerquery
 let
     // --- 1. Mapping Table Setup  ---
