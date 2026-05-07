@@ -89,7 +89,7 @@ in
 <img width="1462" height="599" alt="image" src="https://github.com/user-attachments/assets/2a8b87c2-0ec9-4cc2-b0d6-100e72b02623" />
 Related Scripts in this Project
 
----
+-
 ### 🔗 Related Scripts in this Project
 * [ Opportunity Analysis Logic](./m-query-opportunity.md) – Script for managing Won/Lost tables.
 * [ Reason Mapping Standardization](./m-query-reason-mapping.md) – Categorizing and grouping sales reasons.
