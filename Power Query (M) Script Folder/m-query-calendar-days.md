@@ -13,7 +13,7 @@ I created this Date Table to make time-based calculations in Power BI more accur
 <details>
 <summary><b>View M Language Script (Click to expand)</b></summary>
 
-```markdown
+```powerquery
 let
     // --- 1. Setup Parameters ---
     StartDate = #date(2021, 4, 1),
@@ -89,8 +89,7 @@ in
 <img width="1462" height="599" alt="image" src="https://github.com/user-attachments/assets/2a8b87c2-0ec9-4cc2-b0d6-100e72b02623" />
 Related Scripts in this Project
 
-
-```markdown
+---
 ### 🔗 Related Scripts in this Project
 * [📂 Opportunity Analysis Logic](./m-query-opportunity.md) – Script for managing Won/Lost tables.
 * [📂 Reason Mapping Standardization](./m-query-reason-mapping.md) – Categorizing and grouping sales reasons.
@@ -100,4 +99,4 @@ Related Scripts in this Project
 ### 🔝 Navigation
 * [⬆️ Return to Project Overview](../README.md)
 * [🏠 Back to Top](#-calendar-days-date-table)
-[⬅️ Back to Main Power Query (M) Scripts](https://github.com/oat0054/oat0054.github.io/blob/main/Power%20Query%20(M)%20Script%20Folder/README.md)
+* [⬅️ Back to Main Power Query (M) Scripts](https://github.com/oat0054/oat0054.github.io/blob/main/Power%20Query%20(M)%20Script%20Folder/README.md)
