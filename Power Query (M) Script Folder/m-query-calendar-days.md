@@ -90,13 +90,13 @@ in
 Related Scripts in this Project
 
 ---
-### 🔗 Related Scripts in this Project
+###  Related Scripts in this Project
 * [ Opportunity Analysis Logic](./m-query-opportunity.md) – Script for managing Won/Lost tables.
 * [ Reason Mapping Standardization](./m-query-reason-mapping.md) – Categorizing and grouping sales reasons.
 * [ DAX Measures Library](../DAX/README.md) – Collection of all KPI calculations and measures.
 ---
 
-### 🔝 Navigation
+###  Navigation
 * [⬆️ Return to Project Overview](../README.md)
 * [⬅️ Back to Main Power Query (M) Scripts](https://github.com/oat0054/oat0054.github.io/blob/main/Power%20Query%20(M)%20Script%20Folder/README.md)
 * [🏠 Back to Top](#-calendar-days-date-table)
