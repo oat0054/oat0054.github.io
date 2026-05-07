@@ -1,12 +1,12 @@
 # Calendar Days (Date Table)
-Business Objective
+### Business Objective
 I created this Date Table to make time-based calculations in Power BI more accurate and much easier to handle. It focuses on two main goals:
 
 Aligned with the Fiscal Year: I set the calendar to start in April, matching my company's actual financial reporting cycle.
 
 Instant Time Filtering: It includes a system to group dates into "This Month," "Last Month," or "Future," so I don't have to manually pick dates every time I run a report.
 
-Key Technical Features
+### Key Technical Features
 Built for Speed: Instead of adding columns one by one (which can slow things down), I used a "Record" technique to calculate everything in one pass. This makes the data refresh much faster.
 
 Auto-Updating Logic: The "Month Type" column always stays current based on today's date, ensuring the report is always up to date.
