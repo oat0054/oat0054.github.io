@@ -82,7 +82,7 @@ let
 in
     FinalTable
 ```
-<details>
+<>
 
 ****Calendar Days Table****
 
