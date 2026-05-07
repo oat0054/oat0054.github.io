@@ -1,7 +1,7 @@
 # 📂 Reason Mapping
 
 ### 🎯 Business Objective
-In Salesforce, "Loss Reasons" are often captured as raw text or multi-select picklists. To create a meaningful **Lost Sales Analysis Dashboard**, these reasons must be:
+In Salesforce, "Loss Reasons" are often captured as raw text or multi-select picklists. To create a meaningful **Lost Deals Analysis Dashboard**, these reasons must be:
 1.  **Standardized:** Categorized into High-level "Main Reasons" (e.g., Pricing, Product).
 2.  **Ordered Logically:** Sorted by the sales stage journey rather than alphabetically.
 
