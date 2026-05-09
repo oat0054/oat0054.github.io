@@ -20,7 +20,7 @@ I created this Date Table to make time-based calculations in Power BI more accur
 
 </details>
 
-****Result****
+### Result
 
 <img width="1464" height="497" alt="PBIDesktop_9QW60Psg8o" src="https://github.com/user-attachments/assets/1c0df2e9-0e9d-47be-b34f-da8791f12310" />
 
