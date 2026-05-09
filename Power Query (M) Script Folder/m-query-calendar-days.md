@@ -1,6 +1,5 @@
 # Calendar Days (Date Table)
 ### Business Objective
-I created this Date Table to make time-based calculations in Power BI more accurate and much easier to handle. It focuses on two main goals:
 
 1. **Aligned with the Fiscal Year:** I set the calendar to start in April, matching company's financial reporting cycle.
 
