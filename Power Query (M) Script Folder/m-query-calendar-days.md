@@ -7,7 +7,7 @@ I created this Date Table to make time-based calculations in Power BI more accur
 2. **Relative Time Filtering:** Easily filtering data by "This Month", "Past Month" so Users don't have to manually pick dates.
 
 ### Key Technical Features
-* **Built for Speed:** Instead of adding columns one by one (which can slow things down), I used a "Record" technique to calculate everything in one pass. This makes the data refresh much faster.
+* **Optimized for Performance:** Instead of adding columns one by one (which can slow things down), I used a "Record" technique to calculate everything in one pass. This makes the data refresh much faster.
 
 * **Dynamic Relative Logic:** Automatically calculates the difference between the data date and today's date to categorize months dynamically
 
