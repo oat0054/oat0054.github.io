@@ -10,6 +10,7 @@ This folder contains optimized M-Language scripts used to transform and clean th
 *   [Reason List](m-query-reason-list.md) - Categorizes multi-select picklists into High-level "Main Reasons".
 
 ### Optimization Highlights
+*   **Dynamic Relative Logic:** Automatically calculates the difference between the data date and today's date to categorize months dynamically
 *   **Performance:** Implemented single-pass record generation to reduce data refresh time.
 *   **Security:** Masked all sensitive endpoints and proprietary business logic for public viewing.
 
