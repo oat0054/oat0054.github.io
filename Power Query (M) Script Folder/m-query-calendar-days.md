@@ -24,11 +24,6 @@
 <img width="1464" height="497" alt="PBIDesktop_9QW60Psg8o" src="https://github.com/user-attachments/assets/1c0df2e9-0e9d-47be-b34f-da8791f12310" />
 
 ---
-###  Related Scripts in this Project
-* [ Opportunity Analysis Logic](./m-query-opportunity.md) – Script for managing Won/Lost tables.
-* [ Reason Mapping Standardization](./m-query-reason-mapping.md) – Categorizing and grouping sales reasons.
-* [ DAX Measures Library](../DAX/README.md) – Collection of all KPI calculations and measures.
----
 
 ###  Navigation
 * [ Return to Project Overview](../README.md)
