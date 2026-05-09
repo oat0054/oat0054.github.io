@@ -39,6 +39,8 @@ in
     FinalOutput
 ```
 
+</details>
+
 <img width="1095" height="871" alt="image" src="https://github.com/user-attachments/assets/d95642fc-6bc4-4137-b315-3cd95f22de5a" />
 
 
