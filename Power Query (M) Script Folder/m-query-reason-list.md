@@ -12,6 +12,9 @@ In Salesforce, "Loss Reasons" are often captured as raw text or multi-select pic
   
 <img width="1120" height="423" alt="Reason List" src="https://github.com/user-attachments/assets/5a367c82-eaea-4456-88de-9af1023a3cc7" />
 
+<details>
+<summary><b>View M Language Script (Click to expand)</b></summary>
+
 ```powerquery
 let
     // --- 1. Mapping Table Setup  ---
