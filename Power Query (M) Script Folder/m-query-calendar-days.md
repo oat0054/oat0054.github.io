@@ -11,12 +11,12 @@ I created this Date Table to make time-based calculations in Power BI more accur
 
 * **Dynamic Relative Logic:** Automatically calculates the difference between the data date and today's date to categorize months dynamically
 
-  <img width="1616" height="991" alt="umZEpUjUba" src="https://github.com/user-attachments/assets/47e06d99-c9df-42e3-bf5d-7cb6c1a14f28" />
+  
 
 <details>
 <summary><b>View M Language Script (Click to expand)</b></summary>
   
-<img width="1616" height="991" alt="umZEpUjUba" src="https://github.com/user-attachments/assets/47e06d99-c9df-42e3-bf5d-7cb6c1a14f28" />
+<img width="1612" height="1031" alt="ihsECNkDoV" src="https://github.com/user-attachments/assets/908ed035-0a5f-4a49-8836-54586eff8e1f" />
 
 </details>
 
