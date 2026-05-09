@@ -89,8 +89,7 @@ in
 
 ****Calendar Days Table****
 
-<img width="1120" height="599" alt="image" src="https://github.com/user-attachments/assets/2a8b87c2-0ec9-4cc2-b0d6-100e72b02623" />
-
+<img width="1464" height="497" alt="PBIDesktop_9QW60Psg8o" src="https://github.com/user-attachments/assets/1c0df2e9-0e9d-47be-b34f-da8791f12310" />
 
 ---
 ###  Related Scripts in this Project
