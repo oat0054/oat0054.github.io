@@ -8,7 +8,7 @@
 3. **Value Estimation:** The script automatically calculates the estimated value of lost opportunities, allowing the team to prioritize and focus on high-impact issues.
 
 ### Key Technical Features
-* **Smart Competitor Logic:** I used a "Record" technique to intelligently pick the "winning" competitor's data from several different columns in one efficient pass.
+* **Smart Competitor Logic:** I used a "Record" technique to pick the "winning" competitor's data from several different columns in one efficient pass.
 
 * **Handling Multi-Select Data:** I split multi-select Loss Reasons and joined them with a master list to ensure clean and standardized reporting.
 
