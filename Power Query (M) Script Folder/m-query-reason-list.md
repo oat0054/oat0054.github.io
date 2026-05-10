@@ -20,4 +20,9 @@ In Salesforce, "Loss Reasons" are often captured as raw text or multi-select pic
 <img width="1095" height="871" alt="image" src="https://github.com/user-attachments/assets/d95642fc-6bc4-4137-b315-3cd95f22de5a" />
 
 
-[⬅️ Back to Main Power Query (M) Scripts](https://github.com/oat0054/oat0054.github.io/blob/main/Power%20Query%20(M)%20Script%20Folder/README.md)
+---
+
+###  Navigation
+* [ Return to Project Overview](../README.md)
+* [ Back to Main Power Query (M) Scripts](https://github.com/oat0054/oat0054.github.io/blob/main/Power%20Query%20(M)%20Script%20Folder/README.md)
+* [ Back to Top](#-calendar-days-date-table)
