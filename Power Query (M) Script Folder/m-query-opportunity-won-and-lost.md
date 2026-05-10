@@ -13,8 +13,6 @@
 
 * **Sales Effort Tracking:** I added a smart check called `IsAttempt` to see if a quote was sent before the deal closed. This helps measure the actual effort put into each sales opportunity.
 
----
-
 <details>
 <summary><b>View M Language Script (Click to expand)</b></summary>
   
