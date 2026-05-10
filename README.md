@@ -1,4 +1,4 @@
-# Project Backgroud
+# Project Background
 Apex Machinery, established in 2004, is a joint venture that sells hydraulic excavators and other machinery in Thailand.
 
 For the past two years, Apex Machinery’s market share has dropped. This is the reason why this Lost Deals Analysis was created to find the real reasons for the decline and help management plan for a recovery.
