@@ -1,4 +1,4 @@
-
+# Opportunity Lost (Lost Deal Table)
 
 ### Business Objective
 1. **Detailed Competitor Insights:** I extracted competitor brands, models, and pricing from multiple Salesforce fields into a single view to compare them directly against our offers.
