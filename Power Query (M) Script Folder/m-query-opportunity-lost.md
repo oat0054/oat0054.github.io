@@ -14,7 +14,12 @@
 
 * **Performance:** I filtered rows early and selected only necessary columns to save memory.
 
+<details>
+<summary><b>View M Language Script (Click to expand)</b></summary>
+  
 
+
+</details>
 ```powerquery
 let
     /* 
