@@ -1,9 +1,9 @@
 # Opportunity Won (Won Deal Table)
 
 ### Business Objective
-** 1.Success Factor Identification:** I analyzed "Won Reasons" to identify our core strengths and understand exactly why customers choose us over our competitors.
+1.**Success Factor Identification:** I analyzed "Won Reasons" to identify our core strengths and understand exactly why customers choose us over our competitors.
 
-** 2.Product Performance Tracking:** By linking sales data to specific machine models and product classes, I made it possible to clearly identify which products are our main revenue drivers.
+ 2.**Product Performance Tracking:** By linking sales data to specific machine models and product classes, I made it possible to clearly identify which products are our main revenue drivers.
 
 ### Key Technical Features
 * **Smart Attribute Extraction:** I developed a custom helper function (GetFirstText) to automatically scan multiple Salesforce fields and extract the most accurate competitor data in a single efficient pass.
