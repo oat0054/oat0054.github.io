@@ -10,7 +10,7 @@
 ### Key Technical Features
 * **Smart Competitor Logic:** I used a "Record" technique to intelligently pick the "winning" competitor's data from several different columns in one efficient pass.
 
-* **Handling Multi-Select Data:** Instead of leaving reasons as messy text, I split the values and joined them with a master list to ensure clean and standardized reporting.
+* **Handling Multi-Select Data:** I split multi-select Loss Reasons and joined them with a master list to ensure clean and standardized reporting.
 
 * **Performance:** I filtered rows early and selected only necessary columns to save memory.
 
