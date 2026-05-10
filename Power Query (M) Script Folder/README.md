@@ -4,8 +4,8 @@ This folder contains optimized M-Language scripts used to transform and clean th
 
 ### Script Catalog
 *   [Calendar Days](m-query-calendar-days.md) - Generates an date dimension with custom Fiscal Year and time-intelligence attributes.
-*   [Opportunity Lost](m-query-opportunity-lost.md) - Focuses on extracting loss reasons and competitor comparisons for lost deals.
-*   [Opportunity Won](m-query-opportunity-won.md) - Prepares won deal data for win analysis and KPI tracking.
+*   [Lost Deals](m-query-opportunity-lost.md) - Focuses on extracting loss reasons and competitor comparisons for lost deals.
+*   [Won Deals](m-query-opportunity-won.md) - Prepares won deal data for win analysis and KPI tracking.
 *   [Won & Lost Combined](m-query-opportunity-won-and-lost.md) - The master query that joins both states for a full funnel view.
 *   [Reason List](m-query-reason-list.md) - Categorizes multi-select picklists into High-level "Main Reasons".
 
@@ -18,3 +18,41 @@ This folder contains optimized M-Language scripts used to transform and clean th
 
 
 [⬅️ Back to Main Portfolio](../README.md)
+
+# ⚡ Power Query (M) Scripts
+
+This folder contains optimized M-Language scripts used to transform and clean Salesforce Opportunity data. These scripts are designed for high performance, maintainability, and clear business insights.
+
+### 📂 Script Catalog
+
+* **[Calendar Days](m-query-calendar-days.md)** - Generates a comprehensive date dimension with custom Fiscal Year (April start) and optimized relative month logic.
+* **[Lost Deals Analysis](m-query-opportunity-lost.md)** - Focuses on extracting loss reasons, competitor comparisons, and value estimation for lost opportunities.
+* **[Won Deals Analysis](m-query-opportunity-won.md)** - Prepares success data by linking deals to machine models and identifying key winning factors.
+* **[Master Sales Table](m-query-opportunity-master.md)** - The final master query that joins Won and Lost data for a complete sales funnel view.
+* **[Reason Mapping](m-query-reason-list.md)** - A self-contained mapping script that categorizes messy multi-select picklists into standardized "Main Reasons".
+
+---
+
+### 🚀 Optimization Highlights
+
+Each script in this project implements a specific optimization strategy to ensure the Data Pipeline is efficient and reliable:
+
+* **[Automation] Auto-Updating Time Filters (Calendar Days):** Automatically identifies "This Month" or "Last Month" based on today’s date. This ensures the report is always current without needing manual filter updates.
+* **[Reliability] Built-in Reference Data (Reason List):** Embedded the mapping data directly into the script. This prevents "Broken Link" errors and ensures the report remains fully functional without needing external Excel files.
+* **[Performance] Efficient Data Loading (Lost Deals):** Filters rows and selects only necessary columns at the very first step. This reduces memory footprint and speeds up the data retrieval process from Salesforce.
+* **[Coding] Clean & Reusable Code (Won Deals):** Developed a custom helper function (`GetFirstText`) to handle multiple data checks at once. This makes the script much easier to read, manage, and update.
+* **[Analytics] Smart Effort Tracking (Master Table):** Added automatic logic (like the `IsAttempt` flag) to track if a quote was sent before a deal closed. This turns raw data into useful insights about the sales team's actual effort.
+
+---
+
+### 🔒 Security & Privacy
+To protect proprietary business information, all scripts in this repository have been sanitized:
+* **Connection Strings:** Salesforce URL and API versions are masked.
+* **Field Names:** Custom internal field names have been genericized.
+* **Data Privacy:** All specific customer and competitor pricing data shown in previews are dummy data for demonstration purposes only.
+
+---
+
+### 🔝 Navigation
+* [⬅️ Back to Main Portfolio](../../README.md)
+* [📊 Move to DAX Measures Library](../DAX/README.md)
