@@ -1,29 +1,8 @@
 # Power Query (M) Scripts
 
-This folder contains optimized M-Language scripts used to transform and clean the Salesforce Opportunity data.
-
-### Script Catalog
-*   [Calendar Days](m-query-calendar-days.md) - Generates an date dimension with custom Fiscal Year and time-intelligence attributes.
-*   [Lost Deals](m-query-opportunity-lost.md) - Focuses on extracting loss reasons, competitor comparisons, and value estimation for lost opportunities.
-*   [Won Deals](m-query-opportunity-won.md) - Prepares success data by linking deals to machine models and identifying key winning factors.
-*   [Master Sales Table](m-query-opportunity-won-and-lost.md) - The final master query that joins Won and Lost data for a complete sales funnel view.
-*   [Reason Mapping](m-query-reason-list.md) - A self-contained mapping script that categorizes messy multi-select picklists into standardized "Main Reasons".
-
-### Optimization Highlights
-*   **Dynamic Relative Logic:** Automatically calculates the difference between the data date and today's date to categorize months dynamically
-*   **Performance:** Implemented single-pass record generation to reduce data refresh time.
-*   **Security:** Masked all sensitive endpoints and proprietary business logic for public viewing.
-
-
-
-
-[⬅️ Back to Main Portfolio](../README.md)
-
-# ⚡ Power Query (M) Scripts
-
 This folder contains optimized M-Language scripts used to transform and clean Salesforce Opportunity data. These scripts are designed for high performance, maintainability, and clear business insights.
 
-### 📂 Script Catalog
+### Script Catalog
 
 * **[Calendar Days](m-query-calendar-days.md)** - Generates a comprehensive date dimension with custom Fiscal Year (April start) and optimized relative month logic.
 * **[Lost Deals](m-query-opportunity-lost.md)** - Focuses on extracting loss reasons, competitor comparisons, and value estimation for lost opportunities.
@@ -33,7 +12,7 @@ This folder contains optimized M-Language scripts used to transform and clean Sa
 
 ---
 
-### 🚀 Optimization Highlights
+### Optimization Highlights
 
 Each script in this project implements a specific optimization strategy to ensure the Data Pipeline is efficient and reliable:
 
@@ -45,8 +24,8 @@ Each script in this project implements a specific optimization strategy to ensur
 
 ---
 
-### 🔒 Security & Privacy
-To protect proprietary business information, all scripts in this repository have been sanitized:
+### Security & Privacy
+To protect all sensitive details in these scripts have been removed or masked.:
 * **Connection Strings:** Salesforce URL and API versions are masked.
 * **Field Names:** Custom internal field names have been genericized.
 * **Data Privacy:** All specific customer and competitor pricing data shown in previews are dummy data for demonstration purposes only.
