@@ -1,3 +1,16 @@
+
+Business Objective
+Success Factor Identification: I analyzed "Won Reasons" to identify our core strengths and understand exactly why customers choose us over our competitors.
+
+Product Performance Tracking: By linking sales data to specific machine models and product classes, I made it possible to clearly identify which products are our main revenue drivers.
+
+Key Technical Features
+Smart Attribute Extraction: I developed a custom helper function (GetFirstText) to automatically scan multiple Salesforce fields and extract the most accurate competitor data in a single efficient pass.
+
+Relational Data Merging: I merged raw data with my custom "Reason List" and "Product" reference tables, transforming flat Salesforce records into a structured, relational data model ready for deep analysis.
+
+
+
 ```powerquery
 let
     // --- 1. Data Extraction & Early Filtering ---
