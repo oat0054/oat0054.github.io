@@ -32,6 +32,6 @@ To protect all sensitive details in these scripts have been removed or masked.:
 
 ---
 
-### 🔝 Navigation
-* [⬅️ Back to Main Portfolio](../../README.md)
-* [📊 Move to DAX Measures Library](../DAX/README.md)
+### Navigation
+* [Back to Main Portfolio](../../README.md)
+* [Move to DAX Measures Library](../DAX/README.md)
