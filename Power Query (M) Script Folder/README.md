@@ -28,7 +28,7 @@ This folder contains optimized M-Language scripts used to transform and clean Sa
 * **[Calendar Days](m-query-calendar-days.md)** - Generates a comprehensive date dimension with custom Fiscal Year (April start) and optimized relative month logic.
 * **[Lost Deals](m-query-opportunity-lost.md)** - Focuses on extracting loss reasons, competitor comparisons, and value estimation for lost opportunities.
 * **[Won Deals](m-query-opportunity-won.md)** - Prepares success data by linking deals to machine models and identifying key winning factors.
-* **[Master Sales Table](m-query-opportunity-master.md)** - The final master query that joins Won and Lost data for a complete sales funnel view.
+* **[Master Sales Table](m-query-opportunity-won-and-lost.md)** - The final master query that joins Won and Lost data for a complete sales funnel view.
 * **[Reason Mapping](m-query-reason-list.md)** - A self-contained mapping script that categorizes messy multi-select picklists into standardized "Main Reasons".
 
 ---
