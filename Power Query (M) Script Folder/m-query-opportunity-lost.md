@@ -1,11 +1,13 @@
-Business Objective
+
+
+### Business Objective
 1. **Detailed Competitor Insights:** I extracted competitor brands, models, and pricing from multiple Salesforce fields into a single view to compare them directly against our offers.
 
 2. **Accurate Loss Analysis:** By splitting multi-select "Loss Reasons," the dashboard can clearly show every reason why we lost a deal, helping management improve sales strategies.
 
 3. **Value Estimation:** The script automatically calculates the estimated value of lost opportunities, allowing the team to prioritize and focus on high-impact issues.
 
-Key Technical Features
+### Key Technical Features
 * **Smart Competitor Logic:** I used a "Record" technique to intelligently pick the "winning" competitor's data from several different columns in one efficient pass.
 
 * **Handling Multi-Select Data:** Instead of leaving reasons as messy text, I split the values and joined them with a master list to ensure clean and standardized reporting.
