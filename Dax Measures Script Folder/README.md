@@ -28,9 +28,8 @@ Purpose: Serves as the foundational metric for all advanced calculations within 
 Loss Rate % = DIVIDE([Lost Deals], [Total Deals], 0)
 ```
 Purpose: A key KPI used to evaluate sales pipeline health and overall market competitiveness.
-<br>
 
----
+<br>
 
 ```dax
 Total Units Lost (Prev Period) = 
