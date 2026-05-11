@@ -22,10 +22,12 @@ Total Lost Value = CALCULATE([Total Value], 'Opportunity Won and Lost'[StageName
 ```
 Purpose: Serves as the foundational metric for all advanced calculations within the analysis.
 
+
 ```dax
 Loss Rate % = DIVIDE([Lost Deals], [Total Deals], 0)
 ```
 Purpose: A key KPI used to evaluate sales pipeline health and overall market competitiveness.
+
 
 ```dax
 Total Units Lost (Prev Period) = 
@@ -57,11 +59,11 @@ Deals Lost vs Prev Period =
 Purpose: It provides a Fair Comparison. If you are looking at a 3-month trend, this formula automatically compares it to the previous 3 months, making your analysis much more accurate.
 
 
-
 ```dax
 
 ```
 Purpose: 
+
 
 ```dax
 Dynamic Title = 
