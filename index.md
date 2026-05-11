@@ -7,7 +7,7 @@ impactful business growth strategies.
 
 ## Projects
 
-### 📊 [Lost Deals Analysis Dashboard](./projects/lost-deals-analysis/README.md)
+### 📊 [Lost Deals Analysis Dashboard](https://github.com/oat0054/oat0054.github.io/blob/main/README.md)
 *Analyzing the root causes of lost sales opportunities within the CRM system to develop actionable plans for market share recovery.*
 - **Tools:** Power BI, Salesforce Data, DAX, Power Query
 - **Key Insight:** ระบุสาเหตุหลักที่ลูกค้าเปลี่ยนไปใช้คู่แข่งและปัจจัยด้านราคาที่ส่งผลต่อการปิดการขาย
