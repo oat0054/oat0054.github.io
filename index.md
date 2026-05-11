@@ -5,8 +5,6 @@ I bridge the gap between technical system management and high-level data analysi
 specializing in **Power BI visualizations** that transform raw CRM data into clear, 
 impactful business growth strategies.
 
----
-
 ## Projects
 
 ### 📊 [Lost Deals Analysis Dashboard](./projects/lost-deals-analysis/README.md)
