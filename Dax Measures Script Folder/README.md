@@ -14,16 +14,16 @@ This folder documents the core DAX formulas used to drive the interactive visual
 ### Implementation Details (DAX Code)
 The following measures demonstrate the technical logic used to transform raw CRM data into strategic business insights:
 
+<br><br>
+
 ```dax
 Total Value = SUMX(VALUES('Opportunity Won and Lost'[Id]),
                 CALCULATE(MAX('Opportunity Won and Lost'[Deal Value])))
 
 Total Lost Value = CALCULATE([Total Value], 'Opportunity Won and Lost'[StageName] = "Closed Lost")
 ```
-Purpose: Serves as the foundational metric for all advanced calculations within the analysis.
-
----
-
+Purpose: Serves as the foundational metric for all advanced calculations within the analysis
+<br><br>
 ```dax
 Loss Rate % = DIVIDE([Lost Deals], [Total Deals], 0)
 ```
@@ -62,19 +62,13 @@ Deals Lost vs Prev Period =
 Purpose: It provides a Fair Comparison. If you are looking at a 3-month trend, this formula automatically compares it to the previous 3 months, making your analysis much more accurate.
 <br>
 
----
+
 
 ```dax
 
 ```
 Purpose: 
-<br>
 
----
 
-```dax
-Dynamic Title = 
-"Lost Analysis for: " & SELECTEDVALUE('Salesforce_Data'[Region], "All Regions")
-```
-Purpose: Improves user experience by automatically updating visual headers based on selected slicers.
+
 
