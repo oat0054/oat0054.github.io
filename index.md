@@ -1,9 +1,3 @@
-<style>
-  header p.view {
-    display: none !important;
-  }
-</style>
-
 # Hi, I'm Woraphon
 
 I’m a **Data Analyst & CRM Data Specialist** with a passion for **Business Intelligence**. 
@@ -24,3 +18,9 @@ impactful business growth strategies.
 * **CRM & Systems:** **Salesforce Administration & Analytics**, CRM Data Management, Workflow Optimization
 * **Tools:** Power BI (Desktop/Service), SQL Server, Microsoft Excel (Expert)
 * **Languages:** DAX, Power Query (M Language), SQL
+
+<style>
+  header p.view {
+    display: none !important;
+  }
+</style>
