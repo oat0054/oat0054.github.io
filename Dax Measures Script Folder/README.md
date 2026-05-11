@@ -19,31 +19,35 @@ Total Lost Amount = SUM('Salesforce_Data'[ExpectedRevenue])
 ```
 Purpose: Serves as the foundational metric for all advanced calculations within the analysis.
 
-Code snippet
+```dax
 Lost Amount YoY % = 
 VAR _current = [Total Lost Amount]
 VAR _previous = CALCULATE([Total Lost Amount], SAMEPERIODLASTYEAR('Date'[Date]))
 RETURN 
 DIVIDE(_current - _previous, _previous, 0)
+```
 Purpose: Identifies whether the rate of lost opportunities is increasing or decreasing compared to the previous year.
 
-Code snippet
+```dax
 Loss Rate % = 
 VAR _total_opp = [Total Won] + [Total Lost Amount]
 RETURN 
 DIVIDE([Total Lost Amount], _total_opp, 0)
+```
 Purpose: A key KPI used to evaluate sales pipeline health and overall market competitiveness.
 
-Code snippet
+```dax
 Rank by Reason = 
 RANKX(
     ALL('Salesforce_Data'[Main_Reason]), 
     [Total Lost Amount], , DESC
 )
+```
 Purpose: Prioritizes the "Root Causes" of losses, allowing management to focus on the most critical issues first.
 
-Code snippet
+```dax
 Dynamic Title = 
 "Lost Analysis for: " & SELECTEDVALUE('Salesforce_Data'[Region], "All Regions")
+```
 Purpose: Improves user experience by automatically updating visual headers based on selected slicers.
 
