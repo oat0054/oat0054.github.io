@@ -13,8 +13,6 @@ impactful business growth strategies.
 - **Key Insight:** ระบุสาเหตุหลักที่ลูกค้าเปลี่ยนไปใช้คู่แข่งและปัจจัยด้านราคาที่ส่งผลต่อการปิดการขาย
 - [****View Project Details****](./projects/lost-deals-analysis/README.md) | [**View Dashboard**](ลิงก์-PowerBI-ของคุณ)
 
----
-
 ## 🛠 Skills & Expertise
 * **Data Analysis & BI:** Business Intelligence, Data Modeling, Sales Analytics, Lost Sales Analysis
 * **CRM & Systems:** **Salesforce Administration & Analytics**, CRM Data Management, Workflow Optimization
