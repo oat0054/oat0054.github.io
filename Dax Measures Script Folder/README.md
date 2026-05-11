@@ -22,7 +22,6 @@ Total Lost Value = CALCULATE([Total Value], 'Opportunity Won and Lost'[StageName
 ```
 Purpose: Serves as the foundational metric for all advanced calculations within the analysis.
 <br>
-
 ```dax
 Loss Rate % = DIVIDE([Lost Deals], [Total Deals], 0)
 ```
