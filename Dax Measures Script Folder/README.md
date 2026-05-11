@@ -15,35 +15,53 @@ This folder documents the core DAX formulas used to drive the interactive visual
 The following measures demonstrate the technical logic used to transform raw CRM data into strategic business insights:
 
 ```dax
-Total Lost Amount = SUM('Salesforce_Data'[ExpectedRevenue])
+Total Value = SUMX(VALUES('Opportunity Won and Lost'[Id]),
+                CALCULATE(MAX('Opportunity Won and Lost'[Deal Value])))
+
+Total Lost Value = CALCULATE([Total Value], 'Opportunity Won and Lost'[StageName] = "Closed Lost")
 ```
 Purpose: Serves as the foundational metric for all advanced calculations within the analysis.
 
 ```dax
-Lost Amount YoY % = 
-VAR _current = [Total Lost Amount]
-VAR _previous = CALCULATE([Total Lost Amount], SAMEPERIODLASTYEAR('Date'[Date]))
-RETURN 
-DIVIDE(_current - _previous, _previous, 0)
-```
-Purpose: Identifies whether the rate of lost opportunities is increasing or decreasing compared to the previous year.
-
-```dax
-Loss Rate % = 
-VAR _total_opp = [Total Won] + [Total Lost Amount]
-RETURN 
-DIVIDE([Total Lost Amount], _total_opp, 0)
+Loss Rate % = DIVIDE([Lost Deals], [Total Deals], 0)
 ```
 Purpose: A key KPI used to evaluate sales pipeline health and overall market competitiveness.
 
 ```dax
-Rank by Reason = 
-RANKX(
-    ALL('Salesforce_Data'[Main_Reason]), 
-    [Total Lost Amount], , DESC
+Total Units Lost (Prev Period) = 
+VAR _SelectedDates = ALLSELECTED('Calendar Days')
+VAR _MinDate = MINX(_SelectedDates, 'Calendar Days'[Date])
+VAR _MaxDate = MAXX(_SelectedDates, 'Calendar Days'[Date])
+
+-- 1. Count how many months are currently selected in the Slicer
+VAR _MonthCount = 
+    COUNTROWS(
+        DISTINCT(
+            SELECTCOLUMNS(
+                FILTER(ALL('Calendar Days'), 'Calendar Days'[Date] >= _MinDate && 'Calendar Days'[Date] <= _MaxDate),
+                "MonthYear", 'Calendar Days'[Month] & 'Calendar Days'[Year]
+            )
+        )
+    )
+
+-- 2. Shift the time period back by the exact number of months counted
+RETURN
+CALCULATE(
+    [Total units lost],
+    DATEADD('Calendar Days'[Date], -_MonthCount, MONTH)
 )
+
+Deals Lost vs Prev Period = 
+[Lost Deals] - [Total Deals Lost (Prev Period)]
 ```
-Purpose: Prioritizes the "Root Causes" of losses, allowing management to focus on the most critical issues first.
+Purpose: It provides a Fair Comparison. If you are looking at a 3-month trend, this formula automatically compares it to the previous 3 months, making your analysis much more accurate.
+
+
+
+```dax
+
+```
+Purpose: 
 
 ```dax
 Dynamic Title = 
