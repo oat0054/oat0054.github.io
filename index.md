@@ -1,3 +1,9 @@
+<style>
+  header p.view {
+    display: none !important;
+  }
+</style>
+
 # Hi, I'm Woraphon
 
 I’m a **Data Analyst & CRM Data Specialist** with a passion for **Business Intelligence**. 
