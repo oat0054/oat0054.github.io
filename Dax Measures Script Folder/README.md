@@ -65,7 +65,23 @@ Purpose: It provides a Fair Comparison. If you are looking at a 3-month trend, t
 <br>
 
 ```dax
-
+Rank by Reason = 
+VAR CurrentValue = [Total Lost Value] -- Captures the value of the current row for comparison
+RETURN
+IF (
+    ISINSCOPE('Opportunity Won and Lost'[Main Reason]), -- Ensures ranking only triggers at the Reason level
+    RANKX(
+        ALLSELECTED(
+            'Opportunity Won and Lost'[Main Reason], 
+            'Opportunity Won and Lost'[Sort Main Reason by Stage] -- Clears filters on both display and sort columns
+        ),
+        [Total Lost Value], -- The measure used to determine the rank
+        CurrentValue,       -- The value to be ranked
+        DESC,               
+        Dense               -- Ensures sequential ranking (1, 2, 3...) even with ties
+    ),
+    BLANK() -- Returns blank for total rows to keep the report clean
+)
 ```
 Purpose: 
 
